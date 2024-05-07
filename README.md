@@ -1,12 +1,12 @@
-# Learn Julia
+# Aprende Julia
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Aprende Julia`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Aprende los fundamentos de Julia, desde la instalación del lenguaje y la configuración del entorno de desarrollo hasta la sintaxis básica, las estructuras de control y datos, las funciones y la programación orientada a objetos. Este curso te proporcionará una comprensión sólida de los conceptos esenciales de Julia y te preparará para aplicar tus conocimientos en proyectos prácticos y desafiantes.
 
 ## Instrucciones
 
