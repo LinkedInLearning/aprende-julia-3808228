@@ -31,7 +31,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/aprende-julia
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQHfsJWnPESlbA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725528654748?e=2147483647&v=beta&t=jwkjj0V0amFkS4YnAac3Qpkdp1NqTdEoD9vEA24fpeo
 
 [1]: # (End of ES-Instruction ###############################################################################################)
